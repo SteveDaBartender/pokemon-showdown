@@ -29,6 +29,11 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			watergun: ["3L1"],
 		},
 	},
+	testmon: {
+		learnset: {
+			bide: ["9L1"],
+		},
+	},
 	bulbasaur: {
 		learnset: {
 			acidspray: ["9M"],
